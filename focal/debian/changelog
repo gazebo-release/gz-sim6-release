@@ -1,3 +1,9 @@
+ignition-gazebo6 (6.17.1-1~focal) focal; urgency=medium
+
+  * ignition-gazebo6 6.17.1-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Fri, 13 Feb 2026 17:25:14 +0000
+
 ignition-gazebo6 (6.17.0-1~focal) focal; urgency=medium
 
   * ignition-gazebo6 6.17.0-1 release
